@@ -126,20 +126,6 @@
   </url>
   
   <url>
-    <loc>https://gxdsl.github.io/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2022-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://gxdsl.github.io/tags/Markdown/</loc>
     <lastmod>2022-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -147,7 +133,21 @@
   </url>
   
   <url>
+    <loc>https://gxdsl.github.io/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://gxdsl.github.io/tags/%E6%B8%B8%E6%88%8F%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2022-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
