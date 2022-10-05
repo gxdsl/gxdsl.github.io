@@ -3,11 +3,11 @@
   <title>DSL BLOG</title>
   
   <subtitle>DSL</subtitle>
-  <link href="https://gxdsl.github.io/atom.xml" rel="self"/>
+  <link href="https://daishilin.icu/atom.xml" rel="self"/>
   
-  <link href="https://gxdsl.github.io/"/>
-  <updated>2022-10-05T09:23:17.833Z</updated>
-  <id>https://gxdsl.github.io/</id>
+  <link href="https://daishilin.icu/"/>
+  <updated>2022-10-05T10:06:11.328Z</updated>
+  <id>https://daishilin.icu/</id>
   
   <author>
     <name>DSL</name>
@@ -18,23 +18,30 @@
   
   <entry>
     <title>vercel加速hexo 自定义域名</title>
-    <link href="https://gxdsl.github.io/posts/8d6d198c.html"/>
-    <id>https://gxdsl.github.io/posts/8d6d198c.html</id>
+    <link href="https://daishilin.icu/posts/8d6d198c.html"/>
+    <id>https://daishilin.icu/posts/8d6d198c.html</id>
     <published>2022-10-05T09:16:43.461Z</published>
-    <updated>2022-10-05T09:23:17.833Z</updated>
+    <updated>2022-10-05T10:06:11.328Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="登陆vercel-com"><a href="#登陆vercel-com" class="headerlink" title="登陆vercel.com"></a>登陆<a href="https://vercel.com/">vercel.com</a></h2><h2 id="进入vercel-com-使用GitHub登陆"><a href="#进入vercel-com-使用GitHub登陆" class="headerlink" title="进入vercel.com,使用GitHub登陆"></a>进入<a href="https://vercel.com/">vercel.com</a>,使用<code>GitHub</code>登陆</h2><p>点击<code>Add New...</code>,然后选择<code>project</code><br><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h6ujnvoofmj31m80xfjsh.jpg" alt="创建项目"></p><h2 id="创建项目"><a href="#创建项目" class="headerlink" title="创建项目"></a>创建项目</h2><h3 id="用GitHub登陆后可以看到自己的仓库"><a href="#用GitHub登陆后可以看到自己的仓库" class="headerlink" title="用GitHub登陆后可以看到自己的仓库"></a>用<code>GitHub</code>登陆后可以看到自己的仓库</h3><p><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h6ujvnlhcpj31g60y6jwm.jpg" alt="选择仓库"></p><h3 id="直接点击deploy"><a href="#直接点击deploy" class="headerlink" title="直接点击deploy"></a>直接点击<code>deploy</code></h3><p><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h6uk1z5xxsj31h00xf77h.jpg" alt="delploy"></p><h3 id="进入控制台"><a href="#进入控制台" class="headerlink" title="进入控制台"></a>进入控制台</h3><p><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h6uke342qnj31ih0q8tc7.jpg" alt="控制台"></p><h3 id="添加域名"><a href="#添加域名" class="headerlink" title="添加域名"></a>添加域名</h3><p>点击<code>Settings</code>，然后点击<code>Domains</code>，进行想要的域名添加<br><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h6ukihp006j31hu0qoq3w.jpg" alt="添加域名"></p><h3 id="对其进行DNS解析"><a href="#对其进行DNS解析" class="headerlink" title="对其进行DNS解析"></a>对其进行<code>DNS</code>解析</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;登陆vercel-com&quot;&gt;&lt;a href=&quot;#登陆vercel-com&quot; class=&quot;headerlink&quot; title=&quot;登陆vercel.com&quot;&gt;&lt;/a&gt;登陆&lt;a href=&quot;https://vercel.com/&quot;&gt;vercel.com&lt;/a&gt;&lt;/h2</summary>
+      
     
     
     
     
-    
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>swiper插件(人潮汹涌)配置安装</title>
-    <link href="https://gxdsl.github.io/posts/a0be425a.html"/>
-    <id>https://gxdsl.github.io/posts/a0be425a.html</id>
+    <link href="https://daishilin.icu/posts/a0be425a.html"/>
+    <id>https://daishilin.icu/posts/a0be425a.html</id>
     <published>2022-10-04T13:26:47.000Z</published>
     <updated>2022-10-04T13:40:21.941Z</updated>
     
@@ -51,14 +58,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>c语言指针</title>
-    <link href="https://gxdsl.github.io/posts/7e055cf8.html"/>
-    <id>https://gxdsl.github.io/posts/7e055cf8.html</id>
+    <link href="https://daishilin.icu/posts/7e055cf8.html"/>
+    <id>https://daishilin.icu/posts/7e055cf8.html</id>
     <published>2022-09-26T11:26:11.000Z</published>
     <updated>2022-09-28T02:29:23.944Z</updated>
     
@@ -73,14 +80,14 @@
     
     
     
-    <category term="C" scheme="https://gxdsl.github.io/tags/C/"/>
+    <category term="C" scheme="https://daishilin.icu/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>博客配置 Gitalk 评论系统</title>
-    <link href="https://gxdsl.github.io/posts/6dcac492.html"/>
-    <id>https://gxdsl.github.io/posts/6dcac492.html</id>
+    <link href="https://daishilin.icu/posts/6dcac492.html"/>
+    <id>https://daishilin.icu/posts/6dcac492.html</id>
     <published>2022-09-20T13:26:32.000Z</published>
     <updated>2022-09-20T14:23:53.821Z</updated>
     
@@ -95,14 +102,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>图标配置</title>
-    <link href="https://gxdsl.github.io/posts/b68bb5d7.html"/>
-    <id>https://gxdsl.github.io/posts/b68bb5d7.html</id>
+    <link href="https://daishilin.icu/posts/b68bb5d7.html"/>
+    <id>https://daishilin.icu/posts/b68bb5d7.html</id>
     <published>2022-09-07T12:58:32.000Z</published>
     <updated>2022-09-07T14:43:46.177Z</updated>
     
@@ -119,14 +126,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>为你的 Hexo 博客配置个性域名</title>
-    <link href="https://gxdsl.github.io/posts/bcead7c3.html"/>
-    <id>https://gxdsl.github.io/posts/bcead7c3.html</id>
+    <link href="https://daishilin.icu/posts/bcead7c3.html"/>
+    <id>https://daishilin.icu/posts/bcead7c3.html</id>
     <published>2022-09-06T04:56:12.000Z</published>
     <updated>2022-09-07T14:00:23.825Z</updated>
     
@@ -141,14 +148,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>打赏按钮的投币彩蛋效果</title>
-    <link href="https://gxdsl.github.io/posts/472bdba3.html"/>
-    <id>https://gxdsl.github.io/posts/472bdba3.html</id>
+    <link href="https://daishilin.icu/posts/472bdba3.html"/>
+    <id>https://daishilin.icu/posts/472bdba3.html</id>
     <published>2022-09-05T10:56:12.000Z</published>
     <updated>2022-09-07T14:45:19.614Z</updated>
     
@@ -163,14 +170,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>c语言二级复习</title>
-    <link href="https://gxdsl.github.io/posts/36bf892d.html"/>
-    <id>https://gxdsl.github.io/posts/36bf892d.html</id>
+    <link href="https://daishilin.icu/posts/36bf892d.html"/>
+    <id>https://daishilin.icu/posts/36bf892d.html</id>
     <published>2022-09-04T14:56:11.000Z</published>
     <updated>2022-09-21T15:53:57.904Z</updated>
     
@@ -187,14 +194,14 @@
     
     
     
-    <category term="C" scheme="https://gxdsl.github.io/tags/C/"/>
+    <category term="C" scheme="https://daishilin.icu/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>Markdown基本语法</title>
-    <link href="https://gxdsl.github.io/posts/5d36ff15.html"/>
-    <id>https://gxdsl.github.io/posts/5d36ff15.html</id>
+    <link href="https://daishilin.icu/posts/5d36ff15.html"/>
+    <id>https://daishilin.icu/posts/5d36ff15.html</id>
     <published>2022-09-02T13:05:05.000Z</published>
     <updated>2022-10-04T13:47:27.638Z</updated>
     
@@ -211,14 +218,14 @@
     
     
     
-    <category term="Markdown" scheme="https://gxdsl.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://daishilin.icu/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>Gitcalendar(github共享图)的添加</title>
-    <link href="https://gxdsl.github.io/posts/f655f862.html"/>
-    <id>https://gxdsl.github.io/posts/f655f862.html</id>
+    <link href="https://daishilin.icu/posts/f655f862.html"/>
+    <id>https://daishilin.icu/posts/f655f862.html</id>
     <published>2022-08-30T04:56:12.000Z</published>
     <updated>2022-09-07T14:45:33.842Z</updated>
     
@@ -235,14 +242,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>BLOG UPDATE</title>
-    <link href="https://gxdsl.github.io/posts/4a17b157.html"/>
-    <id>https://gxdsl.github.io/posts/4a17b157.html</id>
+    <link href="https://daishilin.icu/posts/4a17b157.html"/>
+    <id>https://daishilin.icu/posts/4a17b157.html</id>
     <published>2022-08-28T02:49:06.000Z</published>
     <updated>2022-09-20T13:49:49.909Z</updated>
     
@@ -257,14 +264,14 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>全新Steam手机应用正在进行测试</title>
-    <link href="https://gxdsl.github.io/posts/22ac2b8a.html"/>
-    <id>https://gxdsl.github.io/posts/22ac2b8a.html</id>
+    <link href="https://daishilin.icu/posts/22ac2b8a.html"/>
+    <id>https://daishilin.icu/posts/22ac2b8a.html</id>
     <published>2022-08-26T23:45:01.000Z</published>
     <updated>2022-08-31T11:37:38.224Z</updated>
     
@@ -279,14 +286,14 @@
     
     
     
-    <category term="游戏杂谈" scheme="https://gxdsl.github.io/tags/%E6%B8%B8%E6%88%8F%E6%9D%82%E8%B0%88/"/>
+    <category term="游戏杂谈" scheme="https://daishilin.icu/tags/%E6%B8%B8%E6%88%8F%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
   <entry>
     <title>文章外挂标签测试</title>
-    <link href="https://gxdsl.github.io/posts/9350e17.html"/>
-    <id>https://gxdsl.github.io/posts/9350e17.html</id>
+    <link href="https://daishilin.icu/posts/9350e17.html"/>
+    <id>https://daishilin.icu/posts/9350e17.html</id>
     <published>2022-08-26T05:23:45.000Z</published>
     <updated>2022-09-05T13:34:51.335Z</updated>
     
@@ -301,14 +308,14 @@
     
     
     
-    <category term="文章测试" scheme="https://gxdsl.github.io/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+    <category term="文章测试" scheme="https://daishilin.icu/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gxdsl.github.io/posts/4a17b156.html"/>
-    <id>https://gxdsl.github.io/posts/4a17b156.html</id>
+    <link href="https://daishilin.icu/posts/4a17b156.html"/>
+    <id>https://daishilin.icu/posts/4a17b156.html</id>
     <published>2022-08-24T12:15:16.000Z</published>
     <updated>2022-10-04T13:41:20.778Z</updated>
     
@@ -323,7 +330,7 @@
     
     
     
-    <category term="网站搭建" scheme="https://gxdsl.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <category term="网站搭建" scheme="https://daishilin.icu/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
