@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>STM32基础</title>
+      <link href="/posts/b900f0d0.html"/>
+      <url>/posts/b900f0d0.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="STM32F106C8T6"><a href="#STM32F106C8T6" class="headerlink" title="STM32F106C8T6"></a>STM32F106C8T6</h1><h2 id="STM32系列命名规则"><a href="#STM32系列命名规则" class="headerlink" title="STM32系列命名规则"></a>STM32系列命名规则</h2><p><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h7y1cl2324j30mn0qa461.jpg" alt="命名规则"></p><h2 id="STM32F103C8T6引脚定义"><a href="#STM32F103C8T6引脚定义" class="headerlink" title="STM32F103C8T6引脚定义"></a>STM32F103C8T6引脚定义</h2><p><img src="https://tva1.sinaimg.cn/large/005FENU3gy1h7y1gkytrlj30iy0pttn3.jpg" alt="引脚定义"></p><h2 id="开发板启动配置"><a href="#开发板启动配置" class="headerlink" title="开发板启动配置"></a>开发板启动配置</h2><div class="table-container"><table><thead><tr><th style="text-align:center">BOOT0</th><th style="text-align:center">BOOT1</th><th style="text-align:center">启动模式</th><th style="text-align:center">说明</th></tr></thead><tbody><tr><td style="text-align:center">X</td><td style="text-align:center">0</td><td style="text-align:center">主闪存储存器</td><td style="text-align:center">主闪存储存器被选定为启动区域</td></tr><tr><td style="text-align:center">0</td><td style="text-align:center">1</td><td style="text-align:center">系统储存器</td><td style="text-align:center">系统储存器被选定为启动区域</td></tr><tr><td style="text-align:center">1</td><td style="text-align:center">1</td><td style="text-align:center">内置SRAM</td><td style="text-align:center">内置SRAM被选定为启动区域</td></tr></tbody></table></div><p>在系统复位后，<code>SYSCLK</code>的第四个上升沿<code>BOOT</code>引脚的值将被锁存。用户可以通过设置<code>BOOT0</code>和<code>BOOT1</code>引脚的状态，来选择在复位后的启动状态。</p><h2 id="启动文件的选择"><a href="#启动文件的选择" class="headerlink" title="启动文件的选择"></a>启动文件的选择</h2><div class="table-container"><table><thead><tr><th style="text-align:center">缩写</th><th style="text-align:center">释义</th><th style="text-align:center">Flash容量</th><th style="text-align:center">型号</th></tr></thead><tbody><tr><td style="text-align:center">LD_VL</td><td style="text-align:center">小容量产品超值系列</td><td style="text-align:center">16~32K</td><td style="text-align:center">STM32F100</td></tr><tr><td style="text-align:center">MD_VL</td><td style="text-align:center">中容量产品超值系列</td><td style="text-align:center">64~128K</td><td style="text-align:center">STM32F100</td></tr><tr><td style="text-align:center">HD_VL</td><td style="text-align:center">大容量产品超值系列</td><td style="text-align:center">256~512K</td><td style="text-align:center">STM32F100</td></tr><tr><td style="text-align:center">LD</td><td style="text-align:center">小容量产品</td><td style="text-align:center">16~32K</td><td style="text-align:center">STM32F101/102/103</td></tr><tr><td style="text-align:center">MD</td><td style="text-align:center">中容量产品</td><td style="text-align:center">64~128K</td><td style="text-align:center">STM32F101/102/103</td></tr><tr><td style="text-align:center">HD</td><td style="text-align:center">大容量产品</td><td style="text-align:center">256~512K</td><td style="text-align:center">STM32F101/102/103</td></tr><tr><td style="text-align:center">XL</td><td style="text-align:center">加大容量产品</td><td style="text-align:center">大于512K</td><td style="text-align:center">STM32F101/102/103</td></tr><tr><td style="text-align:center">CL</td><td style="text-align:center">互联型产品</td><td style="text-align:center">———</td><td style="text-align:center">STM32F105/107</td></tr></tbody></table></div><p><code>STM32F106C8T6</code>由于Flash容量为64K，使用应该选择<code>.md</code>的启动文件</p><h2 id="新建工程步骤"><a href="#新建工程步骤" class="headerlink" title="新建工程步骤"></a>新建工程步骤</h2><p>•建立工程文件夹，Keil中新建工程，选择型号</p><p>•工程文件夹里建立<code>Start</code>、<code>Library</code>、<code>User</code>等文件夹，复制固件库里面的文件到工程文件夹</p><p>•工程里对应建立<code>Start</code>、<code>Library</code>、<code>User</code>等同名称的分组，然后将文件夹内的文件添加到工程分组里</p><p>•工程选项，<code>C/C++</code>，Include Paths内声明所有包含头文件的文件夹</p><p>•工程选项，<code>C/C++</code>，Define内定义<code>USE_STDPERIPH_DRIVER</code></p><p>•工程选项，<code>Debug</code>，下拉列表选择对应调试器，<code>Settings</code>，<code>Flash Download</code>里勾选<code>Reset and Run</code></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> STM32 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C++基础</title>
       <link href="/posts/f9a964a9.html"/>
       <url>/posts/f9a964a9.html</url>
